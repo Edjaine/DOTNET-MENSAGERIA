@@ -1,0 +1,16 @@
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS.deps.json
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS.runtimeconfig.json
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS.runtimeconfig.dev.json
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS.dll
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/CONSUMERS.pdb
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.csprojAssemblyReference.cache
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.AssemblyInfoInputs.cache
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.AssemblyInfo.cs
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.csproj.CoreCompileInputs.cache
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.csproj.CopyComplete
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.dll
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.pdb
+/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/obj/Debug/netcoreapp3.1/CONSUMERS.genruntimeconfig.cache
