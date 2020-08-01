@@ -31,8 +31,6 @@ namespace KAFKA_DOTNET_CORE
             services.AddSwaggerDocument();
             services.AddScoped<IRabbitConfiguration, RabbitConfiguration>();
             services.AddScoped<IProducer, RabbitProducer>();
-            services.AddScoped<IConsumer, RabbitConsumer>();
-
 
         }
 

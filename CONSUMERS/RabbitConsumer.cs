@@ -1,15 +1,14 @@
-﻿using System;
+using System;
 using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
 namespace CONSUMERS
 {
-    class Program
+    public static class RabbitConsumer
     {
-        public static void Main(string[] args)
-        {
-            var factory = new ConnectionFactory() {                 
+        public static void Work() {
+                        var factory = new ConnectionFactory() {                 
                                                    HostName = "localhost",
                                                    Port = 5672,
                                                    UserName = "testes",
@@ -36,7 +35,7 @@ namespace CONSUMERS
                 Console.WriteLine(" Press [enter] to exit.");
                 Console.ReadLine();
             }
-
         }
+
     }
 }

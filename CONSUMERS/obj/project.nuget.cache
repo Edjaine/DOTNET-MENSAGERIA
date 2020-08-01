@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MlltYYoio0wNdf4qlNdY+9fp1NS3cvUZ2k8rypC4VeqIsofVyMkD0/TCPsGuw1yYpJBIivetbX2UEjOtLnsr4g==",
+  "dgSpecHash": "P4wtwdYqQxe97O3oQsS84qkmh1vgr74MMPX09sCCFgxLdx824NHzj58OfR3Ld16/eBU0FTsc3UM9us0w0W4vLw==",
   "success": true,
   "projectFilePath": "/home/edjaine/Documentos/Fontes/POC/DOTNET-MENSAGERIA/CONSUMERS/CONSUMERS.csproj",
   "expectedPackageFiles": [
+    "/home/edjaine/.nuget/packages/confluent.kafka/1.5.0/confluent.kafka.1.5.0.nupkg.sha512",
+    "/home/edjaine/.nuget/packages/librdkafka.redist/1.5.0/librdkafka.redist.1.5.0.nupkg.sha512",
     "/home/edjaine/.nuget/packages/rabbitmq.client/6.2.0-rc.1/rabbitmq.client.6.2.0-rc.1.nupkg.sha512",
     "/home/edjaine/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
     "/home/edjaine/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"

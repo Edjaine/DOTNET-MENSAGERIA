@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.2.0-rc.1, )"
